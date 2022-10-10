@@ -1,0 +1,2 @@
+# mediawiki
+Server Wikipedia (Pribadi)
