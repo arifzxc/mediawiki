@@ -1,7 +1,7 @@
 # MediaWiki
 <b>MediaWiki</b> adalah sebuah paket perangkat lunak open source gratis wiki yang ditulis dalam PHP, awalnya untuk digunakan di Wikipedia. Hal ini sekarang digunakan oleh beberapa proyek lain non-profit Wikimedia Foundation dan oleh wiki lain.
 
-# SAYA MEMPUNYAI 2 PILIHAN PROSES INSTAlLASI
+# SAYA MEMPUNYAI 2 PILIHAN PROSES INSTALLASI
 
 <b><h2> 1. Installasi dengan shell script (.sh) installasi jadi lebih mudah dan auto selesai dengan sendirinya. </b></h2>
 
